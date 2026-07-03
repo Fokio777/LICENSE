@@ -4,4 +4,8 @@ Copyright (c) 2026 Qemaru
 
 All rights reserved.
 
-No part of this project may be copied, modified, redistributed, or used in any form without prior written permission from the copyright holder.
+You may freely use, play, and include this mod in modpacks.
+Modification, redistribution of modified versions, reverse engineering,
+and use of source code without prior written permission is prohibited.
+
+Minecraft is a trademark of Mojang Studios. This project is not affiliated with Mojang or Microsoft.
